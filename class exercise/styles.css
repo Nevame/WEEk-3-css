@@ -1,0 +1,34 @@
+.High{
+	background-color: coral;
+	font-size:25px;
+}
+
+.P4{
+	border-width: 12px
+	border-color:red;
+
+}
+h1{
+	background-color: coral;
+}
+.P1{
+	border:5px solid blue;
+	font-size: 20px;
+	font-color:coral;
+}
+.P2{
+	background-color: indigo;
+	font-family: sans-serif,Helvetica;
+	font-size: 20px
+
+}
+body{
+	border-color: black;
+	border-style: dotted;
+	background-color: grey;
+	border-width: 20px
+}
+
+.P3 {
+	font-size: 15px;
+}
